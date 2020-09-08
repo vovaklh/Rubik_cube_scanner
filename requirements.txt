@@ -1,0 +1,4 @@
+pygame==1.9.6
+opencv-python==4.2.0
+numpy==1.18.2
+imutils==0.5.3
